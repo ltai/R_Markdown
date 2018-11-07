@@ -17,3 +17,14 @@ Zien, Alexander, et al. "The feature importance ranking measure." Joint Europea
 Jović, Alan, Karla Brkić, and Nikola Bogunović. "A review of feature selection methods with applications." Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2015 38th International Convention on. IEEE, 2015.
 
 Guyon, Isabelle, and André Elisseeff. "An introduction to variable and feature selection." Journal of machine learning research 3.Mar (2003): 1157-1182.
+
+###########################################################
+causality:
+
+causal inference, causal reasoning, causality, confounding, correlation does not imply causation, root cause analysis, instrumental variables estimation
+
+
+############################################################
+correlation coefficient:
+
+Anscombe's quartet, chi-squared test, coefficient of determination, Cramer's V, 
